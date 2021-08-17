@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Cande
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Aprende y emprende con nosotros
     actions:
       - label: Try for free
         url: /pricing
